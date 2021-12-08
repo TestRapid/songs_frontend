@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test suite for snapshot test full dom test for snapshot 1`] = `
+<App>
+  <Store>
+    <Provider
+      store={
+        Object {
+          "@@observable": [Function],
+          "dispatch": [Function],
+          "getState": [Function],
+          "replaceReducer": [Function],
+          "subscribe": [Function],
+        }
+      }
+    >
+      <BrowserRouter>
+        <Router
+          history={
+            Object {
+              "action": "POP",
+              "block": [Function],
+              "createHref": [Function],
+              "go": [Function],
+              "goBack": [Function],
+              "goForward": [Function],
+              "length": 1,
+              "listen": [Function],
+              "location": Object {
+                "hash": "",
+                "pathname": "/",
+                "search": "",
+                "state": undefined,
+              },
+              "push": [Function],
+              "replace": [Function],
+            }
+          }
+        >
+          <Layout>
+            <div
+              className="makeStyles-loader-2"
+            >
+              <WithStyles(ForwardRef(CircularProgress))
+                size="10rem"
+              >
+                <ForwardRef(CircularProgress)
+                  classes={
+                    Object {
+                      "circle": "MuiCircularProgress-circle",
+                      "circleDeterminate": "MuiCircularProgress-circleDeterminate",
+                      "circleDisableShrink": "MuiCircularProgress-circleDisableShrink",
+                      "circleIndeterminate": "MuiCircularProgress-circleIndeterminate",
+                      "circleStatic": "MuiCircularProgress-circleStatic",
+                      "colorPrimary": "MuiCircularProgress-colorPrimary",
+                      "colorSecondary": "MuiCircularProgress-colorSecondary",
+                      "determinate": "MuiCircularProgress-determinate",
+                      "indeterminate": "MuiCircularProgress-indeterminate",
+                      "root": "MuiCircularProgress-root",
+                      "static": "MuiCircularProgress-static",
+                      "svg": "MuiCircularProgress-svg",
+                    }
+                  }
+                  size="10rem"
+                >
+                  <div
+                    className="MuiCircularProgress-root MuiCircularProgress-colorPrimary MuiCircularProgress-indeterminate"
+                    role="progressbar"
+                    style={
+                      Object {
+                        "height": "10rem",
+                        "width": "10rem",
+                      }
+                    }
+                  >
+                    <svg
+                      className="MuiCircularProgress-svg"
+                      viewBox="22 22 44 44"
+                    >
+                      <circle
+                        className="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+                        cx={44}
+                        cy={44}
+                        fill="none"
+                        r={20.2}
+                        strokeWidth={3.6}
+                        style={Object {}}
+                      />
+                    </svg>
+                  </div>
+                </ForwardRef(CircularProgress)>
+              </WithStyles(ForwardRef(CircularProgress))>
+            </div>
+          </Layout>
+        </Router>
+      </BrowserRouter>
+    </Provider>
+  </Store>
+</App>
+`;

@@ -1,0 +1,143 @@
+{
+  "users": [
+    {
+      "firstName": "user",
+      "lastName": "user",
+      "password": "userbkj",
+      "gender": "male",
+      "mobile": "903945234",
+      "location": "bangalore",
+      "id": "user@mailo.com",
+      "added": 1627912422223,
+      "playlist": {
+        "MyPlaylist": [
+          "0eed7d09-2ed7-4377-a117-e0310d6354f1"
+        ],
+        "Test": [
+          "0eed7d09-2ed7-4377-a117-e0310d6354f1"
+        ],
+        "melody": [
+          "0eed7d09-2ed7-4377-a117-e0310d6354f1",
+          "c1d9d07a-54f4-4c22-afea-b5d76d3fe9aa"
+        ]
+      }
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "password": "testl",
+      "gender": "male",
+      "mobile": "8937542035",
+      "location": "teoar",
+      "id": "test@mailo.com",
+      "added": 1627913462944,
+      "playlist": {
+        "MyPlaylist": [
+          "c1d9d07a-54f4-4c22-afea-b5d76d3fe9aa",
+          "5913cb39-2bd0-45d4-a9b3-bd44c4f4021c"
+        ],
+        "pecco": [
+          "c1d9d07a-54f4-4c22-afea-b5d76d3fe9aa"
+        ]
+      }
+    }
+  ],
+  "songs": [
+    {
+      "movie": "test",
+      "title": "test",
+      "length": "4:45",
+      "singer": "tello",
+      "description": "tikto",
+      "created": 1627995581030,
+      "id": "14bca186-e217-4ca8-aed3-58993f31ea68",
+      "views": 4,
+      "userId": "test@mailo.com",
+      "name": "test"
+    },
+    {
+      "movie": "krish",
+      "title": "godAllah",
+      "length": "3:45",
+      "singer": "SPB",
+      "description": "I have completed everything...",
+      "created": 1628001013822,
+      "id": "be401b87-79af-45c0-8dff-7e64f9af5123",
+      "views": 16,
+      "userId": "user@mailo.com",
+      "name": "user"
+    },
+    {
+      "movie": "krish",
+      "title": "godAllah",
+      "length": "3:45",
+      "singer": "shekar",
+      "description": "sefsdf\nwsefsdfg.",
+      "created": 1628071471303,
+      "id": "bd5039c5-99e6-4291-83ee-ed4b108fab72",
+      "views": 6,
+      "userId": "user@mailo.com",
+      "name": "user"
+    },
+    {
+      "movie": "krish",
+      "title": "kjsbvj",
+      "length": "5:30",
+      "singer": "SPB",
+      "description": "qafsdfkn",
+      "created": 1628071471303,
+      "id": "7aa66846-fc5a-4038-b756-43a3fb0bb6f4",
+      "views": 4,
+      "userId": "user@mailo.com",
+      "name": "user"
+    },
+    {
+      "movie": "ting",
+      "title": "ting",
+      "length": "ting",
+      "singer": "ting",
+      "description": "ting",
+      "created": 1628073099133,
+      "id": "0eed7d09-2ed7-4377-a117-e0310d6354f1",
+      "views": 20,
+      "userId": "user@mailo.com",
+      "name": "user"
+    },
+    {
+      "movie": "Anurodh2",
+      "title": "geetaha",
+      "length": "3:46",
+      "singer": "sting",
+      "description": "asfdfdsf",
+      "created": 1628073099133,
+      "id": "c1d9d07a-54f4-4c22-afea-b5d76d3fe9aa",
+      "views": 9,
+      "userId": "test@mailo.com",
+      "name": "test"
+    },
+    {
+      "movie": "Anurodh",
+      "title": "test",
+      "length": "5:45",
+      "singer": "tingting",
+      "description": "tingtingtingting",
+      "created": 1628073099133,
+      "id": "5913cb39-2bd0-45d4-a9b3-bd44c4f4021c",
+      "views": 4,
+      "userId": "test@mailo.com",
+      "name": "test"
+    },
+    {
+      "movie": "Anurodh2",
+      "title": "geetaha",
+      "length": "ting",
+      "singer": "shekar",
+      "description": "tingtingting",
+      "created": 1628073099133,
+      "id": "36d97a4b-dec8-478b-bf16-9f2d3deb95ed",
+      "views": 2,
+      "userId": "test@mailo.com",
+      "name": "test"
+    }
+  ]
+}
